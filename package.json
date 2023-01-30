@@ -1,0 +1,19 @@
+{
+  "name": "intro-to-node-for-web-development",
+  "version": "12.22.9",
+  "description": "Simple web app",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aavik743/Intro-To-Node-For-Web-Development.git"
+  },
+  "author": "Abhik Hore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aavik743/Intro-To-Node-For-Web-Development/issues"
+  },
+  "homepage": "https://github.com/Aavik743/Intro-To-Node-For-Web-Development#readme"
+}
